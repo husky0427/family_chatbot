@@ -1,0 +1,5 @@
+base_url: "https://opendata.cwb.gov.tw/api/v1/rest/datastore/"
+api_tkn: "CWB-7715006B-7F5B-4958-A1DA-D2991B0FC0FC"
+dataid:
+    township_2days:
+      tainan: "F-D0047-077"
